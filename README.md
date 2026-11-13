@@ -6,7 +6,7 @@
 
 [![CI](https://github.com/YOUR_USERNAME/secureforge-password-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/secureforge-password-generator/actions)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 ![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 </div>
